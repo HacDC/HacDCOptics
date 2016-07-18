@@ -1,0 +1,5 @@
+Obtained through reference links without explicit license. Public domain or fair use assumed.
+
+_Reference_
+https://www.fastenal.com/products/details/M42510025A20000?sortby=wholesaleprice&sortdir=ascending&r=~|categoryl1:%22600000%20Fasteners%22|~%20~|categoryl2:%22600039%20Sockets%22|~%20~|categoryl3:%22600042%20Flat%20Socket%20Cap%20Screws%22|~%20~|sattr01:^Metric$|~%20~|sattr04:^%22M3%20-%200.5%22$|~%20~|sattr06:^25mm$|~%20~|sattr06:^22mm$|~
+http://cad.fastenal.com/cadpublisher?sn=item-26353&view=ThreeDim&cadviewer=True
